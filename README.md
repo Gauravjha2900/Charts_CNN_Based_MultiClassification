@@ -50,7 +50,7 @@ Structure your data as follows:
 
 **pie**
 
-<img src ="model and plots/600.png" width="200">
+<img src ="model and plots/602.png" width="200">
 
 
 **Training:**  800 images per class
