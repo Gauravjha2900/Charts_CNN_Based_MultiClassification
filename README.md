@@ -42,5 +42,15 @@ Structure your data as follows:
 
 <img src="model and plots/model.png" width="500">
 
+<br>
+
+<img src="model and plots/model loss.png" width="500">
+
+<br>
+
+<model and plots/model accuracy.png" width="500">
+
+
+
 
 
