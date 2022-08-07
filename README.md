@@ -32,7 +32,26 @@ Structure your data as follows:
 
 **Description:** Multi-class classification. 5 classes distinguish - 
     
-**dot_line**  **horizontal_bar** **vertical_bar** **dot_line** **pie**
+**dot_line**  
+
+<img src ="model and plots/800.png" width="500">
+
+**horizontal_bar**
+
+<img src ="model and plots/200.png" width="500">
+
+**vertical_bar** 
+
+<img src ="model and plots/0.png" width="500">
+
+**line** 
+
+<img src ="model and plots/400.png" width="500">
+
+**pie**
+
+<img src ="model and plots/600.png" width="500">
+
 
 **Training:**  800 images per class
 
