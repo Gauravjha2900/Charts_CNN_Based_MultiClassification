@@ -38,6 +38,13 @@ Structure your data as follows:
 
 **Validation:** 40 images per class
 
+
+## Tasks
+
+**Task 1 & Task 2:** ChartMulticlassification.ipynb
+**Task 3:** fine_tunning_VGG16.ipynb
+**Task 4:** data_augmentation.ipynb
+
 ### model
 
 <img src="model and plots/model.png" width="500">
