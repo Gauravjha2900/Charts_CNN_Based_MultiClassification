@@ -48,7 +48,7 @@ Structure your data as follows:
 
 <br>
 
-<model and plots/model accuracy.png" width="500">
+<img src ="model and plots/model accuracy.png" width="500">
 
 
 
