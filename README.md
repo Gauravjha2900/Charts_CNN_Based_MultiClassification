@@ -39,7 +39,7 @@ Structure your data as follows:
 **Validation:** 40 images per class
 
 ### model
-Model: "sequential_2"
+
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
 =================================================================
@@ -63,4 +63,8 @@ Total params: 1,817,253
 Trainable params: 1,817,253
 Non-trainable params: 0
 _________________________________________________________________
+
+
+
+
 
