@@ -42,7 +42,9 @@ Structure your data as follows:
 ## Tasks
 
 **Task 1 & Task 2:** ChartMulticlassification.ipynb
+
 **Task 3:** fine_tunning_VGG16.ipynb
+
 **Task 4:** data_augmentation.ipynb
 
 ### model
