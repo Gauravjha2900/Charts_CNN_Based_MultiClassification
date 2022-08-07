@@ -34,23 +34,23 @@ Structure your data as follows:
     
 **dot_line**  
 
-<img src ="model and plots/800.png" width="500">
+<img src ="model and plots/800.png" width="200">
 
 **horizontal_bar**
 
-<img src ="model and plots/200.png" width="500">
+<img src ="model and plots/200.png" width="200">
 
 **vertical_bar** 
 
-<img src ="model and plots/0.png" width="500">
+<img src ="model and plots/0.png" width="200">
 
 **line** 
 
-<img src ="model and plots/400.png" width="500">
+<img src ="model and plots/400.png" width="200">
 
 **pie**
 
-<img src ="model and plots/600.png" width="500">
+<img src ="model and plots/600.png" width="200">
 
 
 **Training:**  800 images per class
